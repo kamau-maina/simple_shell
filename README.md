@@ -3,7 +3,7 @@ Group project
 0x16. C - Simple Shell
 
 About Project:
-	This is a simplified version of the linux shell developed for Holberton School as part of the "Low-level programming & Algorithm - Linux and Unix system programming" projects.It is written in the C programming language and can do many of the same functions as a true shell.
+	This is a simplified version of the linux shell developed  as part of the ALX "Low-level programming & Algorithm - Linux and Unix system programming" projects.It is written in the C programming language and can do many of the same functions as a true shell.
 List of allowed functions and system calls
 	access (man 2 access)
 	chdir (man 2 chdir)
